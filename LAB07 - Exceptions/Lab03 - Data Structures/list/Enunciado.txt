@@ -1,0 +1,23 @@
+Implemente uma lista simplesmente encadeada de tipo inteiros (int)
+
+grupo: Cairo Gabriel, Thiago fernandes, Murilo ferreira.
+
+Nomes dos métodos
+push_front [x]
+push_back[x]
+insert (pos) [x]
+insert_sorted [x]
+size[x]
+
+pop_front [x]
+pop_back [x]
+erase_data [x]
+erase_pos [x]
+
+find_pos[x]
+find_data[x]
+front
+back
+get_pos [x]
+print [x]
+
